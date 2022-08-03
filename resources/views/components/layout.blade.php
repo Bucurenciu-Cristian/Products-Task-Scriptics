@@ -7,10 +7,16 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <script src="https://cdn.tailwindcss.com"></script>
     <title>Products</title>
+    <style rel="stylesheet">
+        .
+    </style>
 </head>
-<body class="bg-neutral-300">
+<body class="bg-neutral-300 container mx-auto px-4">
+
 <x-header/>
-{{$slot}}
+<div class="container flex justify-center  flex-col items-center	">
+    {{$slot}}
+</div>
 <x-footer/>
 </body>
 </html>

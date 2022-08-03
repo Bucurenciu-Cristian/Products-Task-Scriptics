@@ -1,1 +1,1 @@
-<h1 class="flex justify-center">Footer</h1>
+{{--<h1 class="flex justify-center">Footer</h1>--}}
